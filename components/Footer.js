@@ -1,8 +1,9 @@
 const Footer = () => (
     <div>
+<footer>
+        <h1><a href="https://newsapi.org">Powered By News API</a></h1>
 
-        <a href="https://newsapi.org">Powered By News API</a>
-
+</footer>
         <style jsx>{`
             footer {
                 background-color: #a19f9f;
