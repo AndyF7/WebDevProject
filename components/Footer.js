@@ -1,6 +1,6 @@
 const Footer = () => (
     <div>
-        <h1><a href="https://newsapi.org">Powered By News API</a></h1>
+          
 
         <style jsx>{`
             footer {
